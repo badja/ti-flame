@@ -1,0 +1,21 @@
+Flame v1.01
+===========
+for Ion on the TI-83/TI-83+
+by Badja <http://badja.calc.org> <badja@calc.org>
+14 July 2001
+
+Changes in Version 1.01
+-----------------------
+Version 1.01 fixes the problem that TI-83+ users had when sending
+FLAME.8XP to their calculator.
+
+
+This program displays an animated greyscale flame. The flame is
+generated in real-time and flickers randomly.
+
+Flame requires Ion to run. To run Flame, make sure Ion is installed on
+your calculator. Send either FLAME.83P or FLAME.8XP (for the 83 and 83+
+respectively) to your calculator and start Ion. Now you can run Flame.
+
+You may use this routine in your own programs, as long as you give me
+credit. Send any comments, ideas, or other feedback to badja@calc.org
